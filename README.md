@@ -19,4 +19,4 @@ Income v Mortgage Interest v Housing Price [Lachlan]
 Income v Fuel rate [Maddie]
 	
 Income v Spending [Maddie]
-Impact of Saving ?![image](https://github.com/LachlanPotter33/project-1-draft/assets/148677623/d643a2e9-d8cf-4fd7-bbf3-44ba47cf425e)
+Impact of Saving ?
