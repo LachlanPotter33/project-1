@@ -1,4 +1,4 @@
-##Project-1
+### Project-1
 
 Research investigation into how does Dwelling, CPI and the cost of fuel affect Inflation, and what are the Impacts? 
 
