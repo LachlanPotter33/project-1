@@ -1,4 +1,4 @@
-### Project-1
+# Project-1
 
 Research investigation into how does Dwelling, CPI and the cost of fuel affect Inflation, and what are the Impacts? 
 
@@ -31,7 +31,6 @@ This shows the even though Fuel pricing can have a huge affect on inflation, the
 
 
 ![Retail pricing vs inflation - table](https://github.com/LachlanPotter33/project-1/assets/149289371/fb8eca14-aab2-499f-b012-b4471f682b24)
-
 ![Retail pricing vs inflation](https://github.com/LachlanPotter33/project-1/assets/149289371/7c733699-0822-4bc0-85fc-40ef951804a9)
 
 
@@ -40,7 +39,6 @@ In this Analyisation we looked at how the Exchange rate can affect the inflation
 After 2020 both the exchange rate and the inflation rate started to both increase however not at the same rate.
 
 ![Exchange Rate ,and Inflation Rate - table](https://github.com/LachlanPotter33/project-1/assets/149289371/86ee9916-4cc6-4180-bfae-6e9e79d226e1)
-
 ![Exchange Rate ,and Inflation Rate](https://github.com/LachlanPotter33/project-1/assets/149289371/be6dbd24-5409-44c7-95b8-1f0135726e1a)
 
 
@@ -58,9 +56,7 @@ Below, you can see the tables for the following data:
 
 ![image_720-1](https://github.com/LachlanPotter33/project-1/assets/149289371/39abee55-43ed-4f76-bba4-24b255546f5b)
 ![image_480](https://github.com/LachlanPotter33/project-1/assets/149289371/80578a95-e52f-41bf-9749-8dba2b57e5ef)
-
 ![image_360](https://github.com/LachlanPotter33/project-1/assets/149289371/bd8f1874-e05f-4b4c-969e-52019e3b1910)
-
 ![Income, Dwelling and Inflation % Change-bar -1](https://github.com/LachlanPotter33/project-1/assets/149289371/e0c667ac-6456-46d2-8781-e5a755c0dd84)
 ![Income, Dwelling and Inflation % Change-line-1](https://github.com/LachlanPotter33/project-1/assets/149289371/e4cac587-974c-48f6-92bf-b1c976cb5019)
 ![image_720-2](https://github.com/LachlanPotter33/project-1/assets/149289371/de6b327b-5684-4ad6-ba55-53b2841fda9b)
