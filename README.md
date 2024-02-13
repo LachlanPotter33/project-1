@@ -30,6 +30,9 @@ For our research, we have simply reviewed the Australia Total Average given valu
 In addition, we articulated a percentage change per quarter, to assist in our analysis later.
 Furthermore, a year-only version of the data was created with the averages of each year to be reviewed more precisely against the other annual percentage changes previously provided within the research.
 Below, you can see the tables for the following data:
+
+
+
 From the table and our bar graph, ‘Comparison of Income and Dwelling Prices', it is evident that both income and dwelling prices have increased.
 Dwelling over the 5-year period had a total increase of 44.84%, which is $286,500.00.
 This dwelling value increase is a result of demand.
