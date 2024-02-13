@@ -1,4 +1,4 @@
-###Project-1
+##Project-1
 
 Research investigation into how does Dwelling, CPI and the cost of fuel affect Inflation, and what are the Impacts? 
 
@@ -57,7 +57,10 @@ Below, you can see the tables for the following data:
 
 
 ![image_720-1](https://github.com/LachlanPotter33/project-1/assets/149289371/39abee55-43ed-4f76-bba4-24b255546f5b)
-![image_720](https://github.com/LachlanPotter33/project-1/assets/149289371/ce481592-a883-4098-981d-c798423709e3)
+![image_480](https://github.com/LachlanPotter33/project-1/assets/149289371/80578a95-e52f-41bf-9749-8dba2b57e5ef)
+
+![image_360](https://github.com/LachlanPotter33/project-1/assets/149289371/bd8f1874-e05f-4b4c-969e-52019e3b1910)
+
 ![Income, Dwelling and Inflation % Change-bar -1](https://github.com/LachlanPotter33/project-1/assets/149289371/e0c667ac-6456-46d2-8781-e5a755c0dd84)
 ![Income, Dwelling and Inflation % Change-line-1](https://github.com/LachlanPotter33/project-1/assets/149289371/e4cac587-974c-48f6-92bf-b1c976cb5019)
 ![image_720-2](https://github.com/LachlanPotter33/project-1/assets/149289371/de6b327b-5684-4ad6-ba55-53b2841fda9b)
