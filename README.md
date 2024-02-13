@@ -31,6 +31,8 @@ This shows the even though Fuel pricing can have a huge affect on inflation, the
 
 
 ![Retail pricing vs inflation - table](https://github.com/LachlanPotter33/project-1/assets/149289371/fb8eca14-aab2-499f-b012-b4471f682b24)
+
+
 ![Retail pricing vs inflation](https://github.com/LachlanPotter33/project-1/assets/149289371/7c733699-0822-4bc0-85fc-40ef951804a9)
 
 
@@ -39,6 +41,8 @@ In this Analyisation we looked at how the Exchange rate can affect the inflation
 After 2020 both the exchange rate and the inflation rate started to both increase however not at the same rate.
 
 ![Exchange Rate ,and Inflation Rate - table](https://github.com/LachlanPotter33/project-1/assets/149289371/86ee9916-4cc6-4180-bfae-6e9e79d226e1)
+
+
 ![Exchange Rate ,and Inflation Rate](https://github.com/LachlanPotter33/project-1/assets/149289371/be6dbd24-5409-44c7-95b8-1f0135726e1a)
 
 
