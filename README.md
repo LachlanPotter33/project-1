@@ -33,6 +33,7 @@ This shows the even though Fuel pricing can have a huge affect on inflation, the
 ![Retail pricing vs inflation - table](https://github.com/LachlanPotter33/project-1/assets/149289371/fb8eca14-aab2-499f-b012-b4471f682b24)
 
 
+
 ![Retail pricing vs inflation](https://github.com/LachlanPotter33/project-1/assets/149289371/7c733699-0822-4bc0-85fc-40ef951804a9)
 
 
