@@ -28,6 +28,8 @@ In this analysis, we explored the relationship between the Cost of Living (CPI) 
 In this Analysis we compared the fuel retail rate to the inflation rate, to find how much the price of fuel has an impact on the rate of inflation. 
 Looking at our Line Graph you can see that fuel was heading down in 2018- 2020 while inflation rate was slowly increasing, however once Covid hit both the Inflation rate and the fuel pricing movement both followed the same trend of a movement of around 4.30% for the year of 2021, while between 2021 and 2022 fule grew a whopping 24.64% between the two grades of fuel ( Disesl and Petrol products ) while inflation only moved 8.05. 
 This shows the even though Fuel pricing can have a huge affect on inflation, there are other factors like covid and wars that also effect inflation line and more investigation would be needed. 
+
+
 ![Retail pricing vs inflation - table](https://github.com/LachlanPotter33/project-1/assets/149289371/fb8eca14-aab2-499f-b012-b4471f682b24)
 
 ![Retail pricing vs inflation](https://github.com/LachlanPotter33/project-1/assets/149289371/7c733699-0822-4bc0-85fc-40ef951804a9)
@@ -52,6 +54,8 @@ For our research, we have simply reviewed the Australia Total Average given valu
 In addition, we articulated a percentage change per quarter, to assist in our analysis later.
 Furthermore, a year-only version of the data was created with the averages of each year to be reviewed more precisely against the other annual percentage changes previously provided within the research.
 Below, you can see the tables for the following data:
+
+
 ![image_720-1](https://github.com/LachlanPotter33/project-1/assets/149289371/39abee55-43ed-4f76-bba4-24b255546f5b)
 ![image_720](https://github.com/LachlanPotter33/project-1/assets/149289371/ce481592-a883-4098-981d-c798423709e3)
 ![Income, Dwelling and Inflation % Change-bar -1](https://github.com/LachlanPotter33/project-1/assets/149289371/e0c667ac-6456-46d2-8781-e5a755c0dd84)
